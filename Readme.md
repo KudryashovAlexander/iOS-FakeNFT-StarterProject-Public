@@ -1,7 +1,21 @@
-# ТЗ мобильного приложения FakeNFT
+# Fake-NFT
+Fake-NFT - это приложение маркетплейс для онлайн покупок NFT картинок.
 
 # Установка
 Вызвать `pod install` в директории проекта
+
+# Скрин экрана корзина
+
+<img src="https://github.com/KudryashovAlexander/iOS-FakeNFT-StarterProject-Public/assets/42520208/216aec94-acd1-4ea7-906d-d74420ad7c58" width="200" alt="Simulator Screenshot - iPhone 15 Pro_1">
+
+<img src="https://github.com/KudryashovAlexander/iOS-FakeNFT-StarterProject-Public/assets/42520208/a2d3934d-72a7-4069-b85d-a920f1242ac6" width="200" alt="Simulator Screenshot - iPhone 15 Pro_2">
+
+<img src="https://github.com/KudryashovAlexander/iOS-FakeNFT-StarterProject-Public/assets/42520208/17aa7e8d-4698-4139-86e5-3d37eb01fd48" width="200" alt="Simulator Screenshot - iPhone 15 Pro_3">
+
+<img src="https://github.com/KudryashovAlexander/iOS-FakeNFT-StarterProject-Public/assets/42520208/f25f0303-8ffb-48e6-a268-c7308f9fe608" width="200" alt="Simulator Screenshot - iPhone 15 Pro_5">
+
+<img src="https://github.com/KudryashovAlexander/iOS-FakeNFT-StarterProject-Public/assets/42520208/a5dbae58-2732-40d2-a9e7-455747c07d29" width="200" alt="Simulator Screenshot - iPhone 15 Pro_4">
+
 
 # Скринкасты с демонстрацией эпиков
 
@@ -214,3 +228,12 @@
 - экран «Корзина» — по названию;
 - экран «Мои NFT» — по рейтингу;
 - экран «Статистика» — по рейтингу.
+
+## **Подключенные библиотеки**
+Подключены через SPM:
+- KingFisher;
+- ProgressHUD;
+Подключены через Podfile:
+- SwiftLint;
+- SwiftGen;
+- Skeleton.
